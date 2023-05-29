@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href 'angularday9deploy'",
+    "build": "ng build --base-href angularday9deploy",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
